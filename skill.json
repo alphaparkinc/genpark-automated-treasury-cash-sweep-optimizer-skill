@@ -1,0 +1,29 @@
+{
+  "name": "genpark-automated-treasury-cash-sweep-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Corporate treasury cash pooling and automated liquidity rebalancing optimizing yield sweeps and zero-overdraft safety buffers.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "treasury-management",
+    "cash-sweep",
+    "fintech",
+    "liquidity-optimizer",
+    "zero-dependency",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "compute_optimal_cash_sweep",
+      "description": "Calculate surplus cash eligible to sweep into high-yield vaults."
+    },
+    {
+      "name": "project_runway_and_liquidity",
+      "description": "Forecast company runway and burn rate across multi-tier accounts."
+    },
+    {
+      "name": "run_benchmark_treasury_sweep",
+      "description": "Execute treasury sweep test scenarios."
+    }
+  ]
+}
